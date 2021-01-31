@@ -1,0 +1,13 @@
+﻿.swagger-ui .topbar {
+    background-color: #444444;
+    border-bottom: 3px solid red;
+}
+
+    .swagger-ui .topbar .download-url-wrapper .select-label {
+        color: greenyellow !important;
+    }
+
+
+        .swagger-ui .topbar .download-url-wrapper .select-label select {
+            border: 2px solid red;
+        }

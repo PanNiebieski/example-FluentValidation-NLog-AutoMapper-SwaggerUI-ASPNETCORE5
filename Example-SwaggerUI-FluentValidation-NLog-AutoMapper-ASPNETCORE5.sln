@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddingStuffAndChecking", "AddingStuffAndChecking.csproj", "{2A4A681B-B6D7-444C-8DC0-9BEC84900347}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A4A681B-B6D7-444C-8DC0-9BEC84900347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A4A681B-B6D7-444C-8DC0-9BEC84900347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A4A681B-B6D7-444C-8DC0-9BEC84900347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A4A681B-B6D7-444C-8DC0-9BEC84900347}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FBC08B8-1CB4-4316-BAC3-2A51E9DDA2ED}
+	EndGlobalSection
+EndGlobal
